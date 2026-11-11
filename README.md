@@ -395,6 +395,15 @@ with Pairwise Ranking and Generative Fusion
     <td><a href="https://github.com/OpenBMB/EC2-Bench">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
 </tr>
+<tr>
+    <td>What Does a Token Cost? A Mixture-of-Agents Measurement of Sufficient Per-Token Compute
+</td>
+    <td>Model Routing</td>
+    <td><a href="https://arxiv.org/abs/2610.02491"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2026-10868" alt="PDF Badge">
+      </a></td>
+    <td> </td>
+</tr>
 </table>
 
 #### Speculative Decoding <a name="speculative-decoding"></a>
